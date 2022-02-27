@@ -1,0 +1,11 @@
+2022-02-26T21:52:39.674-0700 ERROR Oops! We have an Error. OK
+2022-02-26T21:52:39.678-0700 FATAL Damn! Fatal error. Please fix me.
+2022-02-26T21:53:09.489-0700 ERROR Oops! We have an Error. OK
+2022-02-26T21:53:09.493-0700 FATAL Damn! Fatal error. Please fix me.
+2022-02-26T21:56:57.573-0700 INFO Starting LoggingDemoApplication using Java 1.8.0_202 on Shyamsharans-MacBook-Pro.local with PID 1933 (/Users/shyamsharanprajapati/eclipse-workspace/LoggingDemo/target/classes started by shyamsharanprajapati in /Users/shyamsharanprajapati/eclipse-workspace/LoggingDemo)
+2022-02-26T21:56:57.582-0700 INFO No active profile set, falling back to 1 default profile: "default"
+2022-02-26T21:56:59.068-0700 INFO Started LoggingDemoApplication in 1.816 seconds (JVM running for 2.58)
+2022-02-26T21:56:59.070-0700 INFO Info log
+2022-02-26T21:56:59.071-0700 WARN Hey, This is a warning!
+2022-02-26T21:56:59.071-0700 ERROR Oops! We have an Error. OK
+2022-02-26T21:56:59.071-0700 FATAL Damn! Fatal error. Please fix me.
